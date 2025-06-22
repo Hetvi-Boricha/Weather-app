@@ -17,7 +17,7 @@ This is a simple Weather Application built using **HTML**, **CSS**, and **JavaSc
 
 ## 🚀 How to Use
 1.Clone the repo to your local machine:
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/Hetvi-Boricha/weather-app.git
 
 2.Navigate to the project directory:
 cd weather-app
