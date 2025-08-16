@@ -15,7 +15,7 @@ const currentDateTxt = document.querySelector('.current-date-txt')
 
 const forecastItemsContainer = document.querySelector('.forecast-items-container')
 
-const apiKey = 'c48ff94f7727b0a24c5d358206d2c786'
+const apiKey = 'YOUR API KEY'
 
 searchBtn.addEventListener('click',()=>{
     if(cityInput.value.trim() != ''){
@@ -133,4 +133,5 @@ function showDisplaySection(section){
     [weatherInfoSection, searchCitySection, notFoundSection]
     .forEach(section => section.style.display = 'none')
     section.style.display= 'flex'
+
 }
